@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from actors.warior import Warrior
+from actors.warrior import Warrior
 
 @dataclass
 class Enemy(Warrior):

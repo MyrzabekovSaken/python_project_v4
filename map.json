@@ -7,35 +7,36 @@
         {
           "title": "Location_1.1",
           "locations": [],
+          "previous_location": "Root",
           "loot": {
             "items": []
           }
         }
       ],
+      "previous_location": "Location_1",
       "loot": {
         "items": []
       },
-      "previous_location": "Location_1"
-    },
-    {
-      "title": "Location_2",
-      "locations": [
+      "player": [
         {
-          "title": "Location_2.1",
-          "locations": [],
-          "loot": {
-            "items": []
-          }
+          "first_name": "Alex",
+          "hp": 100,
+          "inventory": [],
+          "attack_point": 100
         }
-      ],
-      "loot": {
-        "items": []
-      },
-      "previous_location": "Location_2"
+      ]
     }
   ],
+  "previous_location": "Root",
   "loot": {
     "items": []
   },
-  "previous_location": "Root"
+  "player": [
+    {
+      "first_name": "Alex",
+      "hp": 100,
+      "inventory": [],
+      "attack_point": 100
+    }
+  ]
 }
